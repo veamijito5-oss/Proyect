@@ -1,0 +1,68 @@
+Resumen Ejecutivo — Perfil de Usuario “Curiosos”
+
+El documento define un perfil de adultos entre 50 y 70 años enfocado en el concepto de “economía plateada”, entendiendo que la edad no determina la productividad ni la autonomía. El usuario objetivo corresponde al arquetipo “Curiosos”: personas mayores activas, autónomas y con interés genuino por seguir aprendiendo, participar socialmente y mantenerse útiles dentro de su entorno.
+
+Características principales del usuario
+Perfil sociodemográfico
+Principalmente mujeres pensionadas o dedicadas al hogar.
+Residentes de Bogotá, estratos 3 y 4.
+Formación universitaria o técnica, aunque valoran más la experiencia práctica acumulada durante su vida laboral.
+Relación con la tecnología
+Poseen una alfabetización digital funcional y selectiva.
+Adoptan tecnología cuando perciben utilidad, confianza y beneficios claros.
+Utilizan principalmente YouTube, Google, WhatsApp y Facebook.
+Rechazan plataformas complejas, cambios constantes en interfaces y servicios completamente digitales sin acompañamiento humano.
+Motivaciones
+Mantener autonomía e independencia.
+Generar ingresos adicionales mediante emprendimientos.
+Permanecer activos social y mentalmente.
+Compartir conocimientos y sentirse valorados por su comunidad.
+Hallazgos clave de UX
+1. La edad cronológica no es suficiente
+
+El documento concluye que la edad por sí sola no representa las capacidades reales del usuario. Existen diferencias importantes en autonomía, ritmo de aprendizaje, contexto económico y apropiación tecnológica.
+
+2. La confianza es determinante
+
+Los usuarios son críticos y cuidadosos con sus datos personales. La percepción de seguridad y legitimidad es fundamental para adoptar una plataforma o servicio.
+
+3. Prefieren aprendizaje pausado y acompañado
+
+Aunque usan tecnología, requieren:
+
+Lenguaje claro.
+Procesos guiados.
+Ritmos lentos.
+Contenido breve y digerible.
+Acompañamiento humano o afectivo en etapas iniciales.
+4. El tiempo disponible es limitado
+
+A pesar de estar pensionados o retirados, mantienen rutinas activas y múltiples responsabilidades. Esto limita el tiempo que pueden dedicar a procesos de capacitación extensos. Prefieren contenidos rápidos de consumir, especialmente audiovisuales.
+
+5. Buscan participación activa, no consumo pasivo
+
+El usuario quiere producir, enseñar y compartir conocimientos. Las experiencias más valiosas son aquellas donde sienten que su voz tiene relevancia y pueden ayudar a otros.
+
+Implicaciones para diseño UX
+Diseño de interfaz
+Interfaces simples y consistentes.
+Baja complejidad visual y cognitiva.
+Evitar cambios frecuentes de navegación o estructura.
+Priorizar legibilidad y claridad.
+Contenido
+Microcontenidos.
+Videos cortos.
+Lenguaje cotidiano y directo.
+Explicaciones paso a paso.
+Experiencia de usuario
+Onboarding acompañado.
+Retroalimentación constante.
+Validaciones visibles y sensación de seguridad.
+Procesos pausados y no saturados.
+Motivación y engagement
+Mostrar casos de éxito de personas similares.
+Reforzar autonomía y propósito.
+Diseñar espacios colaborativos y de participación.
+Conclusión
+
+El documento plantea que los adultos mayores no deben abordarse desde estereotipos de dependencia o incapacidad tecnológica. El usuario identificado es autónomo, crítico y motivado, pero requiere experiencias digitales claras, confiables y humanas. La clave del diseño UX para este segmento no está en simplificar excesivamente la tecnología, sino en construir experiencias útiles, seguras, lentas y emocionalmente cercanas.

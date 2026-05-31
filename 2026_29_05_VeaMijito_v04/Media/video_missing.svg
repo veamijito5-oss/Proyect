@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340">
+  <rect width="100%" height="100%" fill="#FFF8EE"/>
+  <g fill="#B23A2E">
+    <circle cx="100" cy="100" r="36" />
+  </g>
+  <text x="50%" y="52%" font-family="Manrope, system-ui, sans-serif" font-size="20" fill="#4A2E1F" text-anchor="middle">Lo lamento, el vídeo no está disponible</text>
+  <text x="50%" y="64%" font-family="Manrope, system-ui, sans-serif" font-size="14" fill="#6B5A4A" text-anchor="middle">Puedes revisar la versión en Texto o escuchar el Audio</text>
+</svg>
